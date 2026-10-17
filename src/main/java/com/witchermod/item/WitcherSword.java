@@ -1,10 +1,10 @@
 package com.witchermod.item;
 
 import net.minecraft.client.item.TooltipContext;
-import net.minecraft.damage.DamageSource;
+import net.minecraft.entity.damage.DamageSource;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.mob.Monster;
-import net.minecraft.entity.mob.RaiderEntity;
+import net.minecraft.entity.raid.RaiderEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.SwordItem;
