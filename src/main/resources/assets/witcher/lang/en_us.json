@@ -1,0 +1,23 @@
+{
+  "item.witcher.silver_ingot": "Silver Ingot",
+  "item.witcher.steel_sword": "Witcher Steel Sword",
+  "item.witcher.silver_sword": "Witcher Silver Sword",
+  "item.witcher.aerondight": "Aerondight",
+  "tooltip.witcher.steel": "Steel for humans: bonus damage against raiders and witches",
+  "tooltip.witcher.silver": "Silver for monsters: bonus damage against monsters",
+  "tooltip.witcher.aerondight": "The legendary sword. Devastating against monsters",
+  "sign.witcher.aard": "Aard",
+  "sign.witcher.igni": "Igni",
+  "sign.witcher.quen": "Quen",
+  "sign.witcher.yrden": "Yrden",
+  "sign.witcher.axii": "Axii",
+  "key.witcher.cast_sign": "Cast Sign",
+  "key.witcher.next_sign": "Next Sign",
+  "key.witcher.prev_sign": "Previous Sign",
+  "category.witcher": "The Witcher",
+  "hud.witcher.sign": "Sign: %s",
+  "message.witcher.selected": "Sign selected: %s",
+  "message.witcher.cooldown": "%s is recharging (%ss)",
+  "message.witcher.tired": "You're too tired to cast a Sign",
+  "message.witcher.no_target": "Axii: no target in sight"
+}

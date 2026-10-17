@@ -1,0 +1,23 @@
+{
+  "item.witcher.silver_ingot": "Barra de Prata",
+  "item.witcher.steel_sword": "Espada de Aço de Bruxo",
+  "item.witcher.silver_sword": "Espada de Prata de Bruxo",
+  "item.witcher.aerondight": "Aerondight",
+  "tooltip.witcher.steel": "Aço para humanos: dano extra contra saqueadores e bruxas",
+  "tooltip.witcher.silver": "Prata para monstros: dano extra contra monstros",
+  "tooltip.witcher.aerondight": "A espada lendária. Devastadora contra monstros",
+  "sign.witcher.aard": "Aard",
+  "sign.witcher.igni": "Igni",
+  "sign.witcher.quen": "Quen",
+  "sign.witcher.yrden": "Yrden",
+  "sign.witcher.axii": "Axii",
+  "key.witcher.cast_sign": "Lançar Sinal",
+  "key.witcher.next_sign": "Próximo Sinal",
+  "key.witcher.prev_sign": "Sinal Anterior",
+  "category.witcher": "The Witcher",
+  "hud.witcher.sign": "Sinal: %s",
+  "message.witcher.selected": "Sinal selecionado: %s",
+  "message.witcher.cooldown": "%s está recarregando (%ss)",
+  "message.witcher.tired": "Você está cansado demais para lançar um Sinal",
+  "message.witcher.no_target": "Axii: nenhum alvo à vista"
+}

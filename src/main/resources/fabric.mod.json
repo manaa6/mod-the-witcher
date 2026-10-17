@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "witcher",
+  "version": "${version}",
+  "name": "The Witcher: Swords & Signs",
+  "description": "Espadas de aço e prata, a Aerondight e os cinco Sinais do Bruxo: Aard, Igni, Quen, Yrden e Axii.",
+  "authors": ["Você"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.witchermod.WitcherMod"],
+    "client": ["com.witchermod.client.WitcherModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
