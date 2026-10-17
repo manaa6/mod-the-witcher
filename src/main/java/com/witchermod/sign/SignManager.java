@@ -310,7 +310,7 @@ public final class SignManager {
         return best;
     }
 
-    private static LivingEntity nearestVictim(MobEntity mob, ServerWorld world, UUID owner) {
+  private static MobEntity nearestVictim(MobEntity mob, ServerWorld world, UUID owner) {
         return world.getEntitiesByClass(MobEntity.class, mob.getBoundingBox().expand(12),
                         e -> e != mob && e.isAlive() && !isFriendly(e, owner))
                 .stream()
@@ -341,7 +341,7 @@ public final class SignManager {
         final MobEntity mob;
         final UUID owner;
         int ticksLeft;
-        LivingEntity victim;
+       MobEntity victim;
 
         AxiiLock(MobEntity mob, UUID owner, int ticksLeft) {
             this.mob = mob;
