@@ -1,0 +1,19 @@
+{
+  "item.bruxo_bestiario.steel_sword": "Espada de Aço",
+  "item.bruxo_bestiario.silver_sword": "Espada de Prata",
+  "item.bruxo_bestiario.sign_aard": "Sinal: Aard",
+  "item.bruxo_bestiario.sign_igni": "Sinal: Igni",
+  "item.bruxo_bestiario.sign_quen": "Sinal: Quen",
+  "item.bruxo_bestiario.sign_yrden": "Sinal: Yrden",
+  "item.bruxo_bestiario.sign_axii": "Sinal: Axii",
+  "entity.bruxo_bestiario.drowner": "Afogador",
+  "item.bruxo_bestiario.drowner_spawn_egg": "Ovo gerador de Afogador",
+  "entity.bruxo_bestiario.ghoul": "Necrófago",
+  "item.bruxo_bestiario.ghoul_spawn_egg": "Ovo gerador de Necrófago",
+  "entity.bruxo_bestiario.nekker": "Nekker",
+  "item.bruxo_bestiario.nekker_spawn_egg": "Ovo gerador de Nekker",
+  "entity.bruxo_bestiario.griffin": "Grifo",
+  "item.bruxo_bestiario.griffin_spawn_egg": "Ovo gerador de Grifo",
+  "entity.bruxo_bestiario.werewolf": "Lobisomem",
+  "item.bruxo_bestiario.werewolf_spawn_egg": "Ovo gerador de Lobisomem"
+}

@@ -1,0 +1,19 @@
+{
+  "item.bruxo_bestiario.steel_sword": "Steel Sword",
+  "item.bruxo_bestiario.silver_sword": "Silver Sword",
+  "item.bruxo_bestiario.sign_aard": "Sign: Aard",
+  "item.bruxo_bestiario.sign_igni": "Sign: Igni",
+  "item.bruxo_bestiario.sign_quen": "Sign: Quen",
+  "item.bruxo_bestiario.sign_yrden": "Sign: Yrden",
+  "item.bruxo_bestiario.sign_axii": "Sign: Axii",
+  "entity.bruxo_bestiario.drowner": "Drowner",
+  "item.bruxo_bestiario.drowner_spawn_egg": "Drowner Spawn Egg",
+  "entity.bruxo_bestiario.ghoul": "Ghoul",
+  "item.bruxo_bestiario.ghoul_spawn_egg": "Ghoul Spawn Egg",
+  "entity.bruxo_bestiario.nekker": "Nekker",
+  "item.bruxo_bestiario.nekker_spawn_egg": "Nekker Spawn Egg",
+  "entity.bruxo_bestiario.griffin": "Griffin",
+  "item.bruxo_bestiario.griffin_spawn_egg": "Griffin Spawn Egg",
+  "entity.bruxo_bestiario.werewolf": "Werewolf",
+  "item.bruxo_bestiario.werewolf_spawn_egg": "Werewolf Spawn Egg"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "bruxo_bestiario:item/silver_sword"
+  }
+}
